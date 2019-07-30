@@ -1,0 +1,12 @@
+{
+  "edition": "Developer",
+  "features": [],
+  "orgPreferences": {
+    "enabled": [
+      "S1DesktopEnabled"
+    ],
+    "disabled": [
+      "S1EncryptedStoragePref2"
+    ]
+  }
+}
